@@ -1,0 +1,30 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.DS_Store
+node_modules
+dist
+tmp
+
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+[Oo]bj/ # FlashDevelop obj
+[Bb]in/ # FlashDevelop bin
+
+# Other files and folders
+.settings/
+.directory
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Hugo
+public/
+
+# Backup Files
