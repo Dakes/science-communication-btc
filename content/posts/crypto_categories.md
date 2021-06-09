@@ -12,7 +12,7 @@ tags:
   - Crypto Currency
   - Overview
 # nolastmod: true
-draft: true
+draft: false
 ---
 
 An Explanation about the different Types of Crypto Currency. 

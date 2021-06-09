@@ -14,7 +14,7 @@ tags:
   - Ethereum
   - Crypto Currency
 # nolastmod: true
-draft: true
+draft: false
 ---
 Lorem ipsum dolor sit amet.
 
