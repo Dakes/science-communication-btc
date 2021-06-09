@@ -1,22 +1,22 @@
 ---
-title: Ethereum
-date: 2021-05-27T18:42:19+02:00
-lastmod: 2021-05-27T18:42:19+02:00
+title: Consensus Mechanisms
+date: 2021-06-09T21:27:04+02:00
+lastmod: 2021-06-09T21:27:04+02:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg
-cover: https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg
+cover: /img/cover.jpg
 categories:
-  - Ethereum
-  - Smart Contracts
+  - General
 tags:
-  - Ethereum
   - Crypto Currency
+  - Overview
+
 # nolastmod: true
 draft: true
 ---
-Lorem ipsum dolor sit amet.
+
+Lorem ipsum dolor sit amet
 
 <!--more-->
 
