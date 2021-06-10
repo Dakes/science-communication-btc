@@ -1,7 +1,7 @@
 ---
 title: Why Crypto Currencies
 date: 2021-06-10T13:29:08+02:00
-lastmod: 2021-06-10T13:29:08+02:00
+lastmod: 2021-06-10T14:29:08+02:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
