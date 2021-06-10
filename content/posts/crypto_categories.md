@@ -5,7 +5,8 @@ lastmod: 2021-06-09T16:26:49+02:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+# https://www.trustetc.com/blog/cryptocurrency-types/
+cover: https://www.trustetc.com/wp-content/uploads/2018/09/8crypto.png
 categories:
   - General
 tags:

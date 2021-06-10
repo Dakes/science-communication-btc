@@ -5,7 +5,8 @@ lastmod: 2021-06-09T22:00:38+02:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+# https://academy.ivanontech.com/blog/decentralized-exchanges-what-is-a-dex
+cover: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/19054/images/aUqR02WsSpecQCpQQow8_5c99e6f475cd1.jpg
 categories:
   - General
 tags:
