@@ -1,14 +1,14 @@
 ---
 title: Why Crypto Currencies
 date: 2021-06-10T13:29:08+02:00
-lastmod: 2021-06-10T14:29:08+02:00
-author: Author Name
+lastmod: 2021-06-17T13:17:00+02:00
+author: Daniel Ostertag
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 # cover: /img/cover.jpg
 categories:
-  - General
   - Introduction
+  - Crypto Newcomer
 tags:
   - Crypto Currency
   - Overview
@@ -16,7 +16,19 @@ tags:
 draft: false
 ---
 
-Commerce on the Internet has come to rely almost exclusively on financial institutions serving astrusted third  parties  to process electronic payments.  
+### The Problem
+Payments on the Internet, so far always relied on centralized financial institutions. Those transactions, completed by those centralized institutions, are under complete control by them. Meaning, you have to fully trust this third party. That is called the "*Trust based model*".  
 <!--more-->
+The problem with that is, that those transactions are reversible. In the case of a dispute, for example, your Bank or PayPal, could revert your transaction, if they agree with the other party.  
+Or even worse, if you live under a totalitarian government, that you oppose, they could force your financial institution to freeze your bank account, or give out details about your past transactions.  
+Those Problems could be avoided using physical currency, but up until Crypto Currencies, there existed no way to make a transactions over the internet without a trusted party. (*Trustless*)
 
-While the  system works  well enough formost transactions, it still suffers from the inherent weaknesses of the trust based model. Completely non-reversible transactions are not really possible, since financial institutions cannotavoid mediating disputes. The cost of mediation increases transaction costs, limiting theminimum practical transaction size and cutting off the possibility for small casual transactions, and there is a broader cost in the loss of ability to make non-reversible payments for non-reversible services.  With the possibility of reversal, the need for trust spreads.  Merchants mustbe wary of their customers, hassling them for more information than they would otherwise need.A certain percentage of fraud is accepted as unavoidable.  These costs and payment uncertaintiescan be avoided in person by using physical currency, but no mechanism exists to make paymentsover a communications channel without a trusted party.What is needed is an electronic payment system based on cryptographic proof instead of trust,allowing any two willing parties to transact directly with each other without the need for a trustedthird  party. Transactions  that  are  computationally  impractical  to reverse would  protect  sellersfrom fraud, and routine escrow mechanisms could easily be implemented to protect buyers. Inthis paper, we propose a solution to the double-spending problem using a peer-to-peer distributedtimestamp server to generate computational proof of the chronological order of transactions. Thesystem is secure as long as honest nodes collectively control more CPU power than anycooperating group of attacker nodes. 
+### The Solution
+The solution proposed first, in the Bitcoin Whitepaper, is an electronic peer-to-peer system, based on cryptographic proof, instead of trust.  
+Peer-to-peer means, that you don't connect to a centralized party, but to other participants on the network.  
+Transactions are confirmed by so-called "miners" who write those transactions into a "block" together with a hash (Cryptographic summarization) of the previous block. Hence the name "Blockchain".  
+This allows any two willing parties to fulfill a transaction, directly from person A to person B, without a trusted third party.  
+How this works in detail, will be explained in other Articles: [Bitcoin]({{< ref "posts/bitcoin.md" >}})
+
+### Sources
+[Bitcoin Whitepaper](https://bitcoin.org/en/bitcoin-paper)
