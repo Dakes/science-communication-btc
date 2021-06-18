@@ -6,6 +6,18 @@ defaultContentLanguage = "en"
 enableRobotsTXT = false
 
 [params]
+    background = "#fff"
+    # backgroundImage = "/me/background.jpg"
+    linkColor = "seagreen"
+
+    # dark mode
+    # defaultDark = true
+    backgroundDark = "#333"
+    # backgroundImageDark = "/me/background.jpg"
+    darkLinkColor = "darkseagreen"
+    # darkNav = true
+    # dark404 = true
+
     headerTitle = "Science Communication: BTC"
 
     [params.advanced]
