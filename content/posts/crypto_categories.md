@@ -5,8 +5,7 @@ lastmod: 2021-06-18T12:55:49+02:00
 author: Daniel Ostertag
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# https://www.trustetc.com/blog/cryptocurrency-types/
-cover: https://www.trustetc.com/wp-content/uploads/2018/09/8crypto.png
+cover: https://upload.wikimedia.org/wikipedia/commons/b/b8/Cryptocurrency_logos.jpg
 categories:
   - General
   - Introduction
@@ -59,3 +58,4 @@ Other Privacy coins are: Zcash, Dash, Grin, Beam
 [Bitcoin supply over time image](https://commons.wikimedia.org/wiki/File:Total-bitcoins.svg)  
 [Medium: Crypto Categories You Need To Know!](https://medium.com/coinmonks/crypto-categories-you-need-to-know-9e78a5bdebc7)  
 [Kraken: Types of Cryptocurrency](https://www.kraken.com/learn/types-of-cryptocurrency)
+[Cover Image](https://commons.wikimedia.org/wiki/File:Cryptocurrency_logos.jpg)
