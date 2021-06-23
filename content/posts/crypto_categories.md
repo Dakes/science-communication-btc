@@ -1,7 +1,7 @@
 ---
 title: Crypto Categories
 date: 2021-06-09T16:26:49+02:00
-lastmod: 2021-06-18T12:55:49+02:00
+lastmod: 2021-06-23T11:00:49+02:00
 author: Daniel Ostertag
 # avatar: /img/author.jpg
 # authorlink: https://author.site
@@ -44,8 +44,28 @@ Other big Smart Contract Cryptos are [Cardano]({{< ref "posts/cardano.md" >}}), 
 
 # Payment
 Payment Cryptocurrencies were created to replace our current payment system and to address some problems of other Cryptos, that prevent those from being widely used for regular payments. While Bitcoin originally was created as an alternative for our financial system, these days it has too expensive transaction costs and too slow transaction times.  
-Sometimes those systems come with so called Stable Coins, that have a fixed value, compared to their respactive Fiat counterpart, like EUR or USD.  
 Examples of payment cryptos are: Luna, Bitcoin Cash, Dash
+
+## Stablecoins
+
+To address the problem of price volatility, but keep the advantages of Cryptocurrency, sometimes those systems come with so called *Stable Coins*. Those have a fixed value, compared to their respective Fiat counterpart, like EUR or USD.  
+This can generally work via two ways.  
+
+### Asset Backed
+The issuer of the Stablecoin must have the equivalent amount of Fiat currency in a bank account, so that one Stablecoin corresponds to f.e. 1€. So basically a "*I owe you*" for 1€, that can be redeemed later. But those types of Stablecoins can be backed by anything, really. Like Precious Metals, Diamonds, Oil or even other Cryptos. The disadvantage to those is, that they are centralized, because they must be issued by someone. 
+Examples for those types of stablecoin are: 
+- Tether: USDT 
+- Coinbase: USDC
+- Crypto backed: Dai
+{{< figure src="https://ethereum.org/static/21501e8dfa2f42d8260c096e21d8dbb4/aff26/hero.png" width="100px">}} 
+
+### Algorithmic
+Algorithmic stablecoins don't need to be backed by anything. How they hold their value (There are different ways, but I will use the Terra Luna system as an example):  
+The stablecoin can be swapped for their token they are based on (like LUNA for Terra, or ETH on Ethereum). And the rate at which can be swapped is determined by an Algorithm, that changes, based on supply and demand and the actual value of the Fiat currency. So if too many one sided swaps happen, it will get slightly more attractive to swap the token to the stablecoin, giving it a larger supply, fixing the price.  
+Algorithmic stablecoins are for example:
+- Terra: Includes stablecoins for many currencies: UST (USD), EUT (EUR), KRT (Korean Won), JPT (Japanese Yen) and many more. 
+- Ampleforth (Built on Ethereum)
+
 
 # Privacy
 Even though Bitcoin has the reputation of being anonymous, it really isn't. It only is pseudo anonymous, because all transactions, that ever happened, can be perfectly tracked on the Blockchain. So if your real identity would ever get linked to a certain Bitcoin address, all your past and future transactions could be traced.  
@@ -57,5 +77,7 @@ Other Privacy coins are: Zcash, Dash, Grin, Beam
 # Sources
 [Bitcoin supply over time image](https://commons.wikimedia.org/wiki/File:Total-bitcoins.svg)  
 [Medium: Crypto Categories You Need To Know!](https://medium.com/coinmonks/crypto-categories-you-need-to-know-9e78a5bdebc7)  
-[Kraken: Types of Cryptocurrency](https://www.kraken.com/learn/types-of-cryptocurrency)
-[Cover Image](https://commons.wikimedia.org/wiki/File:Cryptocurrency_logos.jpg)
+[Kraken: Types of Cryptocurrency](https://www.kraken.com/learn/types-of-cryptocurrency)  
+[Ethereum.org: Stablecoins](https://ethereum.org/en/stablecoins/)  
+[Terra: Stablecoins](https://docs.terra.money/stablecoin.html)
+[Cover Image](https://commons.wikimedia.org/wiki/File:Cryptocurrency_logos.jpg)  
