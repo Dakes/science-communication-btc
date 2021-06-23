@@ -7,13 +7,16 @@ enableRobotsTXT = false
 
 [params]
     background = "#fff"
-    # backgroundImage = "/me/background.jpg"
+    backgroundImage = "/science-communication-btc/blockchain-bright.svg"
+    # Source: https://pixabay.com/vectors/blockchain-cryptocurrency-network-3277335/
     linkColor = "seagreen"
 
     # dark mode
     # defaultDark = true
-    backgroundDark = "#333"
-    # backgroundImageDark = "/me/background.jpg"
+    # backgroundDark = "#333"
+    backgroundImageDark = "/science-communication-btc/blockchain-dark.svg"
+    # Source: https://pixabay.com/vectors/blockchain-cryptocurrency-network-3277336/
+
     darkLinkColor = "darkseagreen"
     # darkNav = true
     # dark404 = true
