@@ -1,7 +1,7 @@
 ---
 title: Index
-date: 2021-06-23T12:11:29+02:00
-lastmod: 2021-06-23T12:11:29+02:00
+date: 2038-01-19T03:14:07+02:00
+lastmod: 2038-01-19T03:14:07+02:00
 author: Daniel Ostertag
 # avatar: /img/author.jpg
 # authorlink: https://author.site
@@ -38,6 +38,8 @@ Look here for a recommended reading order.
 2. [Intermediate](/science-communication-btc/categories/intermediate)
     1. [Bitcoin](/science-communication-btc/posts/bitcoin/)
     2. [Ethereum](/science-communication-btc/posts/ethereum/)
+    3. [Proof of Work](/science-communication-btc/posts/proof_of_work/)
+    4. [Proof of Stake](/science-communication-btc/posts/proof_of_stake/)
 3. [Advanced](/science-communication-btc/categories/advanced)
     1. [Cardano](/science-communication-btc/posts/cardano/)
     2. [Decentralised Exchanges](/science-communication-btc/posts/decentralized_exchanges/)
