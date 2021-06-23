@@ -8,10 +8,12 @@ author: Author Name
 # "File:BTC Logo.svg" by Coinmarket.to is licensed under CC BY-SA 4.0 
 cover: https://upload.wikimedia.org/wikipedia/commons/9/9a/BTC_Logo.svg
 categories:
-  - Bitcoin
+  - Intermediate
 tags:
   - Bitcoin
   - Crypto Currency
+  - Intermediate
+  
 # nolastmod: true
 draft: false
 ---

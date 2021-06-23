@@ -7,11 +7,16 @@ author: Author Name
 # authorlink: https://author.site
 # https://www.c-sharpcorner.com/article/proof-of-work-vs-proof-of-stake/
 cover: https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/proof-of-work-vs-proof-of-stake/Images/Proof%20of%20Work%20Vs.%20Proof%20of%20Stake.gif
+
 categories:
   - General
+  - Introduction
+  - Crypto Newcomer
 tags:
   - Crypto Currency
   - Overview
+  - Crypto Newcomer
+
 
 # nolastmod: true
 draft: false

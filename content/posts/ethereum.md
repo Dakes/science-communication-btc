@@ -8,11 +8,13 @@ author: Author Name
 # https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg
 cover: https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg
 categories:
-  - Ethereum
-  - Smart Contracts
+  - Intermediate
 tags:
   - Ethereum
   - Crypto Currency
+  - Intermediate
+  - Smart Contract
+  
 # nolastmod: true
 draft: false
 ---

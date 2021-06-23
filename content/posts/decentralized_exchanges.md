@@ -9,11 +9,10 @@ author: Daniel Ostertag
 cover: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/19054/images/aUqR02WsSpecQCpQQow8_5c99e6f475cd1.jpg
 categories:
   - General
-  - Intermediate
+  - Advanced
 tags:
-  - Crypto Currency
   - DEX
-  - Intermediate
+  - Advanded
   - Smart Contract
 
 # nolastmod: true

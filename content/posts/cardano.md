@@ -8,12 +8,13 @@ author: Daniel Ostertag
 # https://en.wikipedia.org/wiki/File:Cardano.svg
 cover: https://upload.wikimedia.org/wikipedia/commons/f/f8/Cardano.svg
 categories:
-  - Smart Contract
   - Advanced
 tags:
   - Cardano
   - Crypto Currency
   - Smart Contract
+  - Advanced
+  
 # nolastmod: true
 draft: false
 ---

@@ -12,6 +12,7 @@ categories:
 tags:
   - Crypto Currency
   - Overview
+  - Crypto Newcomer
 # nolastmod: true
 draft: false
 ---
@@ -27,7 +28,7 @@ Those Problems could be avoided using physical currency, but up until Crypto Cur
 The solution proposed first, in the Bitcoin Whitepaper, is an electronic peer-to-peer system, based on cryptographic proof, instead of trust.  
 Peer-to-peer means, that you don't connect to a centralized party, but to other participants on the network.  
 Transactions are confirmed by so-called "miners" who write those transactions into a "block" together with a hash (Cryptographic summarization) of the previous block. Hence the name "Blockchain".  
-This allows any two willing parties to fulfill a transaction, directly from person A to person B, without a trusted third party.  
+This allows any two willing parties to fulfil a transaction, directly from person A to person B, without a trusted third party.  
 How this works in detail, will be explained in other Articles: [Bitcoin]({{< ref "posts/bitcoin.md" >}})
 
 ### Sources

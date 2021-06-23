@@ -79,5 +79,5 @@ Other Privacy coins are: Zcash, Dash, Grin, Beam
 [Medium: Crypto Categories You Need To Know!](https://medium.com/coinmonks/crypto-categories-you-need-to-know-9e78a5bdebc7)  
 [Kraken: Types of Cryptocurrency](https://www.kraken.com/learn/types-of-cryptocurrency)  
 [Ethereum.org: Stablecoins](https://ethereum.org/en/stablecoins/)  
-[Terra: Stablecoins](https://docs.terra.money/stablecoin.html)
+[Terra: Stablecoins](https://docs.terra.money/stablecoin.html)  
 [Cover Image](https://commons.wikimedia.org/wiki/File:Cryptocurrency_logos.jpg)  
