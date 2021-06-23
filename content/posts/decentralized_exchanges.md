@@ -12,7 +12,7 @@ categories:
   - Advanced
 tags:
   - DEX
-  - Advanded
+  - Advanced
   - Smart Contract
 
 # nolastmod: true
